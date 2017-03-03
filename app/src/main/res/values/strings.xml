@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contactman</string>
+    <string name="button">Searchcontact</string>
+    <string name="button2">Addcontact</string>
+    <string name="button3">Upgradecontact</string>
+    <string name="button4">Delite</string>
+    <string name="button5">save</string>
+    <string name="editText4"></string>
+    <string name="editText3"></string>
+    <string name="editText2"></string>
+    <string name="button6">Search</string>
+    <string name="textview4">TextView</string>
+    <string name="textview5">TextView</string>
+    <string name="editText"></string>
+    <string name="editText5" />
+    <string name="button7">Delite</string>
+    <string name="editText6" />
+    <string name="editText7" />
+    <string name="editText8" />
+    <string name="Button8">Upgrade</string>
+    <string name="textView">Name</string>
+    <string name="textView2">Mobile Number</string>
+    <string name="textView3">Email</string>
+</resources>
